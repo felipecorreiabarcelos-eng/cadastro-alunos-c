@@ -1,0 +1,19 @@
+# Executáveis
+cadastro_alunos
+cadastro_alunos.exe
+*.exe
+*.out
+
+# Arquivos objeto e de build
+*.o
+*.obj
+*.exe.stackdump
+
+# Arquivos de editores/IDEs
+.vscode/
+*.suo
+*.user
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
